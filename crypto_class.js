@@ -1,4 +1,4 @@
-import axios from "../node_modules/@bundled-es-modules/axios/axios.js";
+import axios from "./node_modules/@bundled-es-modules/axios/axios.js";
 
 let btn = document.querySelector("#submit");
 let input = document.querySelector("#input");
