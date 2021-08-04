@@ -1,0 +1,24 @@
+.dark_window{
+    background-color: rgba(0,0,0,0.7);
+    position: fixed;
+    width:100%;
+    height: 100%;
+    z-index: 999;
+    /* display: flex; */
+    display: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.dark_box{
+    max-width:600px;
+    width:100%;
+    min-height: 300px;
+    background-color: antiquewhite;
+    border:orange solid 3px;
+}
+
+.dark_box img{
+    float:left;
+    margin-right:8px;
+}
